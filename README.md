@@ -1,6 +1,6 @@
 # TeamKutayRainerPatrick
 
-
+## Browsergame, Chatten, Spielen und Erfolge Vergleichen!
 Machen Sie sich bereit für massive Massenkämpfe und noch mehr Spaß in der Monster-Region!
 Bekämpfen sie tausende Gegner während sie hunderte Monster sammeln.
 Sammeln. Der Spieler kann unterschiedliche Monster-Arten sammeln.
